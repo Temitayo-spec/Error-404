@@ -122,6 +122,12 @@ ul li a {
 } */
 
 @media screen and (max-width: 500px) {
+	.header{
+		width 100%;
+		}
+		.header h1{
+			margin-left: -0.5em;
+			}
   .close {
     align-self: flex-start;
     margin-left: 20px;
